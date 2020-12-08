@@ -18,6 +18,18 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="beason.shu@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-dqsdk.iwgame.com/php_service/new_yisdk_api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-dqsdk.iwgame.com" />
+          <option name="userName" value="lian" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-dqsdk.iwgame.com/php_service/sdk_service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
